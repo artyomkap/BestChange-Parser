@@ -80,6 +80,6 @@ Feel free to fork the repo, submit issues, or suggest improvements.
 
 ---
 
-**Author:** [Your Name or GitHub Profile]  
+**Author:** artyomkap  
 **License:** MIT
 
